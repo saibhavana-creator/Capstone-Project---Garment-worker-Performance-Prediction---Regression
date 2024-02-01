@@ -11,3 +11,5 @@ Experimented various Python and Machine Learning algorithms like Linear Regressi
 Compared all the results of Python and Machine Learning Algorithms with various ratios of Train Test Ratio and recommended the best Regression Model.
 
 COLAB LINK:"https://colab.research.google.com/drive/12KrvTWI3mCEoC9u2otbuKrdqd3AD_Dq_?usp=sharing".
+
+PPT LINK: https://1drv.ms/p/s!AoWEJ_VTcbRMglHg9e4JZbs_eWeq?e=nnhvXs
